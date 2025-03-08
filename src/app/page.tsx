@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
@@ -121,7 +121,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 dark:text-gray-300 italic">
-                "Shan 的設計不僅美觀，而且非常符合我們的品牌調性。他的專業建議幫助我們的產品更好地連接用戶。"
+                &quot;Shan 的設計不僅美觀，而且非常符合我們的品牌調性。他的專業建議幫助我們的產品更好地連接用戶。&quot;
               </p>
             </div>
             {/* Testimonial 2 */}
@@ -136,7 +136,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 dark:text-gray-300 italic">
-                "我們的網站改版後，轉化率提高了 30%。Shan 的設計既美觀又實用，真的很專業。"
+                &quot;我們的網站改版後，轉化率提高了 30%。Shan 的設計既美觀又實用，真的很專業。&quot;
               </p>
             </div>
             {/* Testimonial 3 */}
@@ -151,7 +151,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 dark:text-gray-300 italic">
-                "Shan 為我們設計的品牌識別系統讓我們在競爭激烈的市場中脫穎而出，顧客反饋非常正面。"
+                &quot;Shan 為我們設計的品牌識別系統讓我們在競爭激烈的市場中脫穎而出，顧客反饋非常正面。&quot;
               </p>
             </div>
           </div>
